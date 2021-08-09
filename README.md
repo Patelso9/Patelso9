@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @Patelso9
-- 👀 I’m interested in food, dance, travel
-- 🌱 I’m currently learning full stack 
-- 💞️ I’m looking to collaborate on learning new languages
+- 👀 I’m interested in front end web dev jobs
+- 🌱 I’m currently learning full stack web development
+- 💞️ I’m looking to collaborate on creating new websites focused on organisation or mental wellness 
 - 📫 How to reach me sonali.patel.pkg@gmail.com
-
-<!---
-Patelso9/Patelso9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
