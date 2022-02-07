@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Patelso9
-- 👀 I’m interested in front end web dev jobs
-- 🌱 I’m currently learning full stack web development
-- 💞️ I’m looking to collaborate on creating new websites focused on organisation or mental wellness 
+- 👀 I'm a full stack javascript developer
+- 🌱 I’m currently learning Java & spring boot
+- 💞️ I’m looking to collaborate on creating websites focused on organization, mental wellness, event planning. 
 - 📫 How to reach me sonali.patel.pkg@gmail.com
+- 🔗 LinkedIn: https://linkedin.com/in/sonali-patel-79a0a7a0
