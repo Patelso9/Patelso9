@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Patelso9
 - 👀 I'm a full stack javascript developer
 - 🌱 I’m currently learning Java & spring boot
-- 💞️ I’m looking to collaborate on creating websites focused on organization, mental wellness, event planning. 
+- 💞️ I’m looking to collaborate on creating websites focused on organization & event planning. 
 - 📫 How to reach me sonali.patel.pkg@gmail.com
 - 🔗 LinkedIn: https://linkedin.com/in/sonali-patel-79a0a7a0
