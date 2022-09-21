@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Patelso9
-- 👀 I'm a full stack javascript developer
+- 👀 I'm a full stack Java & Javascript developer
 - 🌱 I’m currently learning Java & spring boot
 - 💞️ I’m looking to collaborate on creating websites focused on organization & event planning. 
 - 📫 How to reach me sonali.patel.pkg@gmail.com
